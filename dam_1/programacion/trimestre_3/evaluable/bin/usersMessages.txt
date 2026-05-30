@@ -1,0 +1,2 @@
+petro@gmail.com;Cuenta Básica;24/04/2026 12:38:52;Hola
+petro@gmail.com;Cuenta Premium;24/04/2026 12:39:48;Hola de nuevo
